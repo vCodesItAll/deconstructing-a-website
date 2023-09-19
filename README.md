@@ -7,5 +7,5 @@
 - Template: 
     - ![whiteboard drawing of template](Screenshot%202023-09-19%20115443.png)
 - Page:
-    - ![whiteboard drawing of template](Screenshot%202023-09-19%20115425.png)
+    - ![screenshot of scholastic.com/home](Screenshot%202023-09-19%20115425.png)
 
